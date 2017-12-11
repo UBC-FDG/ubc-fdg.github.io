@@ -1,1 +1,1 @@
-# ubc-fdg
+# UBC Forestry Discussion Group
