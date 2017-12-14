@@ -3,11 +3,11 @@
 Welcome! The forestry discussion group (FDG) is a weekly group meeting where we discuss literature at the intersection of forest management and ecology. This is an attempt to bring together our individual disciplines to approach current issues in forest management from a variety of perspectives. We welcome anyone who is interested to meet with us, provide input into discussion, and recommend any relevant literature. 
 
 Location: TBA
+
 Time: TBA (weekly)
 
-##Upcoming sessions:
 
-
+## Upcoming sessions:
 
 ### 2018
 
