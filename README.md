@@ -11,21 +11,21 @@ Time: TBA (weekly)
 
 ### 2018
 
-|  Date  | Session | Readings | Leader |
-|:------:|:-------:|:--------:|:------:|
-| Jan 11 |         |          |        |
-| Jan 18 |         |          |        |
-| Jan 25 |         |          |        |
-|  Feb 1 |         |          |        |
-|  Feb 8 |         |          |        |
-| Feb 15 |         |          |        |
-| Feb 22 |         |          |        |
-|  Mar 1 |         |          |        |
-|  Mar 8 |         |          |        |
-| Mar 15 |         |          |        |
-| Mar 22 |         |          |        |
-| Mar 29 |         |          |        |
-|  Apr 5 |         |          |        |
-| Apr 12 |         |          |        |
-| Apr 19 |         |          |        |
-| Apr 26 |         |          |        |
+|  Date  | Readings | Leader |
+|:------:|:--------:|:------:|
+| Jan 11 |          |        |
+| Jan 18 |          |        |
+| Jan 25 |          |        |
+|  Feb 1 |          |        |
+|  Feb 8 |          |        |
+| Feb 15 |          |        |
+| Feb 22 |          |        |
+|  Mar 1 |          |        |
+|  Mar 8 |          |        |
+| Mar 15 |          |        |
+| Mar 22 |          |        |
+| Mar 29 |          |        |
+|  Apr 5 |          |        |
+| Apr 12 |          |        |
+| Apr 19 |          |        |
+| Apr 26 |          |        |
