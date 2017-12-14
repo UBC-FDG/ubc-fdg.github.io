@@ -7,6 +7,8 @@ Time: TBA (weekly)
 
 ##Upcoming sessions:
 
+
+
 ### 2018
 
 |  Date  | Session | Readings | Leader |
