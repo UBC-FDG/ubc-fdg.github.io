@@ -13,8 +13,7 @@ Time: Thursday 1:00 PM - 2:00 PM (weekly)
 
 |  Date  | Readings |    Leader(s)  |
 |:------:|:--------:|:-------------:|
-| Jan 4  | TBA      | David & Karly |
-| Jan 11 |          |               |
+| Jan 11 | TBA      | David & Karly |
 | Jan 18 |          |               |
 | Jan 25 |          |               |
 |  Feb 1 |          |               |
