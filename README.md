@@ -13,7 +13,7 @@ Time: Thursday 1:00 PM - 2:00 PM (weekly)
 
 |  Date  | Readings |    Leader(s)  |
 |:------:|:--------:|:-------------:|
-| Jan 11 | TBA      | David & Karly |
+| Jan 11 | 	[Primary](http://www.sciencedirect.com/science/article/pii/S0378112716305540), 	[Supplementary 1](http://www.sciencedirect.com/science/article/pii/S0378112708009055), 	[S2](http://www.bioone.org/doi/full/10.1899/11-114.1), [S3](http://www.journals.uchicago.edu/doi/abs/10.1899/11-094.1)      | David & Karly |
 | Jan 18 |          |               |
 | Jan 25 |          |               |
 |  Feb 1 |          |               |
