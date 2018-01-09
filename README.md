@@ -11,21 +11,21 @@ Time: Thursday 1:00 PM - 2:00 PM (weekly)
 
 ### 2018
 
-|  Date  | Readings |    Leader(s)  |
-|:------:|:--------:|:-------------:|
-| Jan 11 | 	[Primary](http://www.sciencedirect.com/science/article/pii/S0378112716305540), 	[Supplementary 1](http://www.sciencedirect.com/science/article/pii/S0378112708009055), 	[S2](http://www.bioone.org/doi/full/10.1899/11-114.1), [S3](http://www.journals.uchicago.edu/doi/abs/10.1899/11-094.1)      | David & Karly |
-| Jan 18 |          |               |
-| Jan 25 |          |               |
-|  Feb 1 |          |               |
-|  Feb 8 |          |               |
-| Feb 15 |          |               |
-| Feb 22 |          |               |
-|  Mar 1 |          |               |
-|  Mar 8 |          |               |
-| Mar 15 |          |               |
-| Mar 22 |          |               |
-| Mar 29 |          |               |
-|  Apr 5 |          |               |
-| Apr 12 |          |               |
-| Apr 19 |          |               |
-| Apr 26 |          |               |
+|  Date  | Readings |    Leader(s)  |  Theme  |
+|:------:|:--------:|:-------------:|:-------:|
+| Jan 11 | 	[Primary](http://www.sciencedirect.com/science/article/pii/S0378112716305540), 	[Supplementary 1](http://www.sciencedirect.com/science/article/pii/S0378112708009055), 	[S2](http://www.bioone.org/doi/full/10.1899/11-114.1), [S3](http://www.journals.uchicago.edu/doi/abs/10.1899/11-094.1)      | David & Karly |  Emulating Natural Disturbance (END) Paradigm |
+| Jan 18 |          |               |         |
+| Jan 25 |          |               |         |
+|  Feb 1 |          |               |         |
+|  Feb 8 |          |               |         |
+| Feb 15 |          |               |         |
+| Feb 22 |          |               |         |
+|  Mar 1 |          |               |         |
+|  Mar 8 |          |               |         |
+| Mar 15 |          |               |         |
+| Mar 22 |          |               |         |
+| Mar 29 |          |               |         |
+|  Apr 5 |          |               |         |
+| Apr 12 |          |               |         |
+| Apr 19 |          |               |         |
+| Apr 26 |          |               |         |
