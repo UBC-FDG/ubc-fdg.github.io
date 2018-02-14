@@ -17,8 +17,8 @@ Time: Thursday 1:00 PM - 2:00 PM (weekly)
 | Jan 18 | [Primary](http://www.sciencedirect.com/science/article/pii/S0378112717318078?via%3Dihub), [S1](http://www.sciencedirect.com/science/article/pii/S0006320716310308)         |  Joanna    | Seismic line restoration |
 | Jan 25 | [1](https://www.nature.com/articles/ismej2017109), [2](https://www.sciencedirect.com/science/article/pii/S0038071716300724) |     Katie   | Soil microbial response to disturbance / community data analysis |
 |  Feb 1 | [1](http://onlinelibrary.wiley.com/doi/10.1111/1365-2664.12897/full), [2](https://www.sciencedirect.com/science/article/pii/S0169534717303257)         | Claire        | Biodiversity - ecosystem function  |
-|  Feb 8 |     TBA  |      TBA      |         |
-| Feb 15 |     TBA  |      Erin     |         |
+|  Feb 8 |          |               |         |
+| Feb 15 |[Primary](http://onlinelibrary.wiley.com/doi/10.1111/rec.12012/full), [S1](https://nau.edu/uploadedFiles/Centers-Institutes/ERI/_Forms/Resources/ser-primer.pdf), [S2](http://onlinelibrary.wiley.com/doi/10.1111/1365-2664.12940/full) |   Erin     | Restoration|
 | Feb 22 |          | READING BREAK |         |
 |  Mar 1 |    TBA   | Angie         |         |
 |  Mar 8 |    TBA   |   Katie       |         |
