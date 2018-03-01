@@ -20,7 +20,7 @@ Time: Thursday 1:00 PM - 2:00 PM (weekly)
 |  Feb 8 |          |               |         |
 | Feb 15 |[Primary](http://onlinelibrary.wiley.com/doi/10.1111/rec.12012/full), [S1](https://nau.edu/uploadedFiles/Centers-Institutes/ERI/_Forms/Resources/ser-primer.pdf), [S2](http://onlinelibrary.wiley.com/doi/10.1111/1365-2664.12940/full) |   Erin     | Restoration|
 | Feb 22 |          | READING BREAK |         |
-|  Mar 1 |    TBA   | Angie         |         |
+|  Mar 1 |   [1](https://www.sciencedirect.com/science/article/pii/S0169534717300381), [2](http://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(17)30241-0)   | Angie         |  Quantifying trait rarity and species abundance      |
 |  Mar 8 |    TBA   |   Katie       |         |
 | Mar 15 |    TBA   | Gillian       |         |
 | Mar 22 |    TBA   |  Kasey        |         |
